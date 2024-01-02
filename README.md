@@ -10,7 +10,7 @@
 
 
 
-- [Demo Project](https://snapp-ivory.vercel.app/)
+- [Demo Project](https://snapp-ivory.vercel.app/) use VPN
 
 - Developed by Amirreza Kokabi
 
